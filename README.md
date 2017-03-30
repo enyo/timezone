@@ -74,7 +74,7 @@ initializeTimeZone().then((_) {
 >
 > [The tz database](http://www.twinsun.com/tz/tz-link.htm)
 
-#### Get location by Olsen timezone ID
+#### Get location by Olson timezone ID
 
 ```dart
 final detroit = getLocation('America/Detroit');
